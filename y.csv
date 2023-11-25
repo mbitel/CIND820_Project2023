@@ -1,0 +1,1995 @@
+,ViolentCrimesPerPop
+0,Medium Crime
+1,Very High Crime
+2,Very High Crime
+3,Medium Crime
+4,Very Low Crime
+5,Medium Crime
+6,Very Low Crime
+7,Very High Crime
+8,Very High Crime
+9,Medium Crime
+10,High Crime
+11,Low Crime
+12,Very Low Crime
+13,Low Crime
+14,Medium Crime
+15,High Crime
+16,Very High Crime
+17,Low Crime
+18,Medium Crime
+19,Very Low Crime
+20,High Crime
+21,Very High Crime
+22,Medium Crime
+23,Very High Crime
+24,High Crime
+25,Medium Crime
+26,Very High Crime
+27,Low Crime
+28,Very High Crime
+29,Very Low Crime
+30,Medium Crime
+31,Medium Crime
+32,Medium Crime
+33,High Crime
+34,Low Crime
+35,High Crime
+36,Low Crime
+37,High Crime
+38,Medium Crime
+39,Low Crime
+40,Low Crime
+41,Very Low Crime
+42,Very High Crime
+43,High Crime
+44,Medium Crime
+45,Medium Crime
+46,Medium Crime
+47,Medium Crime
+48,Low Crime
+49,Medium Crime
+50,Medium Crime
+51,Very High Crime
+52,High Crime
+53,Very Low Crime
+54,Low Crime
+55,High Crime
+56,High Crime
+57,High Crime
+58,Very High Crime
+59,Very Low Crime
+60,Very Low Crime
+61,Low Crime
+62,Low Crime
+63,Very High Crime
+64,High Crime
+65,Medium Crime
+66,Very High Crime
+67,Very Low Crime
+68,Very High Crime
+69,Very Low Crime
+70,Very Low Crime
+71,Medium Crime
+72,Very Low Crime
+73,Very Low Crime
+74,Medium Crime
+75,Medium Crime
+76,Medium Crime
+77,Very High Crime
+78,Very High Crime
+79,Very High Crime
+80,High Crime
+81,High Crime
+82,Very High Crime
+83,Very Low Crime
+84,Very Low Crime
+85,Very Low Crime
+86,Low Crime
+87,Low Crime
+88,High Crime
+89,Medium Crime
+90,Very High Crime
+91,Very Low Crime
+92,Very Low Crime
+93,Medium Crime
+94,Very High Crime
+95,High Crime
+96,Very High Crime
+97,Very Low Crime
+98,Low Crime
+99,Low Crime
+100,High Crime
+101,Very Low Crime
+102,High Crime
+103,High Crime
+104,Low Crime
+105,Very High Crime
+106,High Crime
+107,Low Crime
+108,High Crime
+109,Very High Crime
+110,Very High Crime
+111,Very Low Crime
+112,Very Low Crime
+113,Medium Crime
+114,Very High Crime
+115,Very Low Crime
+116,Very High Crime
+117,Very Low Crime
+118,Very Low Crime
+119,Very High Crime
+120,High Crime
+121,Very Low Crime
+122,Very Low Crime
+123,Low Crime
+124,Medium Crime
+125,Medium Crime
+126,Medium Crime
+127,Medium Crime
+128,Very High Crime
+129,Very Low Crime
+130,High Crime
+131,Medium Crime
+132,Medium Crime
+133,High Crime
+134,Low Crime
+135,Very Low Crime
+136,Low Crime
+137,Medium Crime
+138,High Crime
+139,Very Low Crime
+140,Low Crime
+141,Low Crime
+142,High Crime
+143,Very Low Crime
+144,Medium Crime
+145,Very High Crime
+146,Very High Crime
+147,Very Low Crime
+148,Very High Crime
+149,Very High Crime
+150,Medium Crime
+151,Very High Crime
+152,Very Low Crime
+153,High Crime
+154,Very High Crime
+155,Very High Crime
+156,Very Low Crime
+157,Very High Crime
+158,Very High Crime
+159,Very Low Crime
+160,Low Crime
+161,Very Low Crime
+162,Medium Crime
+163,Low Crime
+164,Very Low Crime
+165,High Crime
+166,Very Low Crime
+167,Medium Crime
+168,Very High Crime
+169,Very High Crime
+170,High Crime
+171,Low Crime
+172,Low Crime
+173,Medium Crime
+174,Very High Crime
+175,Medium Crime
+176,Low Crime
+177,Very High Crime
+178,Low Crime
+179,High Crime
+180,Medium Crime
+181,High Crime
+182,High Crime
+183,Very Low Crime
+184,Medium Crime
+185,High Crime
+186,Medium Crime
+187,Very Low Crime
+188,Very Low Crime
+189,Low Crime
+190,Low Crime
+191,Medium Crime
+192,Low Crime
+193,Low Crime
+194,Very Low Crime
+195,Very Low Crime
+196,Very Low Crime
+197,Very High Crime
+198,High Crime
+199,Very High Crime
+200,Medium Crime
+201,Medium Crime
+202,High Crime
+203,Very High Crime
+204,Very Low Crime
+205,Medium Crime
+206,High Crime
+207,Medium Crime
+208,Very Low Crime
+209,Medium Crime
+210,High Crime
+211,Very Low Crime
+212,Very High Crime
+213,Very Low Crime
+214,High Crime
+215,Very High Crime
+216,Low Crime
+217,Very Low Crime
+218,Medium Crime
+219,Very Low Crime
+220,Very Low Crime
+221,High Crime
+222,High Crime
+223,Very Low Crime
+224,Medium Crime
+225,Low Crime
+226,Very High Crime
+227,Medium Crime
+228,Very High Crime
+229,Very High Crime
+230,Very Low Crime
+231,Very Low Crime
+232,Medium Crime
+233,Very High Crime
+234,Medium Crime
+235,Low Crime
+236,High Crime
+237,Very Low Crime
+238,High Crime
+239,Medium Crime
+240,Very Low Crime
+241,Medium Crime
+242,High Crime
+243,Very High Crime
+244,Medium Crime
+245,High Crime
+246,Very High Crime
+247,High Crime
+248,Very High Crime
+249,Very Low Crime
+250,Very High Crime
+251,Very High Crime
+252,Very Low Crime
+253,Low Crime
+254,Very Low Crime
+255,Very High Crime
+256,Medium Crime
+257,Very Low Crime
+258,Very Low Crime
+259,Low Crime
+260,Very High Crime
+261,Very High Crime
+262,Very High Crime
+263,Very Low Crime
+264,Very Low Crime
+265,Medium Crime
+266,High Crime
+267,Medium Crime
+268,Very Low Crime
+269,Very High Crime
+270,Low Crime
+271,High Crime
+272,High Crime
+273,High Crime
+274,Medium Crime
+275,High Crime
+276,High Crime
+277,Low Crime
+278,Very Low Crime
+279,Very Low Crime
+280,Very Low Crime
+281,Medium Crime
+282,Very Low Crime
+283,High Crime
+284,Medium Crime
+285,Medium Crime
+286,Very High Crime
+287,Very Low Crime
+288,Very High Crime
+289,Low Crime
+290,Low Crime
+291,Low Crime
+292,Very Low Crime
+293,High Crime
+294,Low Crime
+295,Medium Crime
+296,Very High Crime
+297,Very Low Crime
+298,High Crime
+299,High Crime
+300,Low Crime
+301,Very Low Crime
+302,High Crime
+303,High Crime
+304,Very Low Crime
+305,Very High Crime
+306,High Crime
+307,High Crime
+308,Very Low Crime
+309,Very Low Crime
+310,Medium Crime
+311,Medium Crime
+312,Medium Crime
+313,Very High Crime
+314,Medium Crime
+315,High Crime
+316,High Crime
+317,High Crime
+318,Very Low Crime
+319,Medium Crime
+320,Very High Crime
+321,Low Crime
+322,Low Crime
+323,High Crime
+324,High Crime
+325,High Crime
+326,Low Crime
+327,Medium Crime
+328,Medium Crime
+329,High Crime
+330,Low Crime
+331,High Crime
+332,Very Low Crime
+333,Very High Crime
+334,Very High Crime
+335,Very Low Crime
+336,Low Crime
+337,Very Low Crime
+338,Medium Crime
+339,Very Low Crime
+340,Low Crime
+341,Low Crime
+342,Very Low Crime
+343,Very Low Crime
+344,Very Low Crime
+345,Medium Crime
+346,Very High Crime
+347,Low Crime
+348,Very Low Crime
+349,Low Crime
+350,Very Low Crime
+351,Low Crime
+352,Low Crime
+353,Low Crime
+354,Very Low Crime
+355,High Crime
+356,Very Low Crime
+357,Very Low Crime
+358,Very Low Crime
+359,Low Crime
+360,Very High Crime
+361,High Crime
+362,Very High Crime
+363,Low Crime
+364,Very Low Crime
+365,Very High Crime
+366,High Crime
+367,Medium Crime
+368,Low Crime
+369,Low Crime
+370,Very High Crime
+371,Medium Crime
+372,Very Low Crime
+373,Very Low Crime
+374,Very High Crime
+375,Very High Crime
+376,Very Low Crime
+377,Low Crime
+378,High Crime
+379,High Crime
+380,Very High Crime
+381,Very Low Crime
+382,Very Low Crime
+383,Medium Crime
+384,Very High Crime
+385,High Crime
+386,High Crime
+387,Very High Crime
+388,Very High Crime
+389,Very Low Crime
+390,Low Crime
+391,Very Low Crime
+392,High Crime
+393,Very High Crime
+394,Very Low Crime
+395,Low Crime
+396,High Crime
+397,Low Crime
+398,Medium Crime
+399,Very High Crime
+400,Very High Crime
+401,Very High Crime
+402,Very Low Crime
+403,Medium Crime
+404,Very High Crime
+405,High Crime
+406,Medium Crime
+407,Very High Crime
+408,Very High Crime
+409,High Crime
+410,Very High Crime
+411,Medium Crime
+412,Medium Crime
+413,Very High Crime
+414,Low Crime
+415,Medium Crime
+416,Very Low Crime
+417,Medium Crime
+418,High Crime
+419,Low Crime
+420,Very High Crime
+421,Very High Crime
+422,Very Low Crime
+423,Very High Crime
+424,Very Low Crime
+425,Medium Crime
+426,Very Low Crime
+427,Very High Crime
+428,Very High Crime
+429,Very High Crime
+430,Very Low Crime
+431,Very High Crime
+432,Very Low Crime
+433,Medium Crime
+434,Very Low Crime
+435,Low Crime
+436,Very Low Crime
+437,Very Low Crime
+438,Medium Crime
+439,High Crime
+440,Medium Crime
+441,High Crime
+442,Very Low Crime
+443,Very Low Crime
+444,Very High Crime
+445,Very Low Crime
+446,Very High Crime
+447,Very High Crime
+448,Very Low Crime
+449,Very Low Crime
+450,Very High Crime
+451,Very Low Crime
+452,Medium Crime
+453,Low Crime
+454,Very High Crime
+455,Low Crime
+456,Low Crime
+457,Very High Crime
+458,Low Crime
+459,Very Low Crime
+460,Very High Crime
+461,Very Low Crime
+462,Very High Crime
+463,High Crime
+464,High Crime
+465,Low Crime
+466,High Crime
+467,Medium Crime
+468,Medium Crime
+469,Very Low Crime
+470,High Crime
+471,Very Low Crime
+472,Very High Crime
+473,Very High Crime
+474,High Crime
+475,High Crime
+476,Medium Crime
+477,High Crime
+478,Very Low Crime
+479,High Crime
+480,Very High Crime
+481,High Crime
+482,Very High Crime
+483,Low Crime
+484,Very Low Crime
+485,High Crime
+486,Low Crime
+487,Very Low Crime
+488,Medium Crime
+489,Very Low Crime
+490,Very Low Crime
+491,High Crime
+492,Low Crime
+493,Very Low Crime
+494,High Crime
+495,High Crime
+496,Medium Crime
+497,Medium Crime
+498,Medium Crime
+499,Very High Crime
+500,Low Crime
+501,High Crime
+502,Medium Crime
+503,Very Low Crime
+504,Medium Crime
+505,Very High Crime
+506,Medium Crime
+507,Medium Crime
+508,High Crime
+509,Very Low Crime
+510,Medium Crime
+511,High Crime
+512,Medium Crime
+513,High Crime
+514,Medium Crime
+515,Very Low Crime
+516,Medium Crime
+517,Low Crime
+518,Low Crime
+519,Very Low Crime
+520,Medium Crime
+521,Medium Crime
+522,Very High Crime
+523,High Crime
+524,Low Crime
+525,Very High Crime
+526,High Crime
+527,Low Crime
+528,Very High Crime
+529,Very Low Crime
+530,Very Low Crime
+531,Medium Crime
+532,Very High Crime
+533,Medium Crime
+534,Very Low Crime
+535,Medium Crime
+536,Very Low Crime
+537,Medium Crime
+538,Low Crime
+539,Very High Crime
+540,Medium Crime
+541,Medium Crime
+542,Very Low Crime
+543,Very Low Crime
+544,High Crime
+545,Very High Crime
+546,Low Crime
+547,Medium Crime
+548,Very Low Crime
+549,High Crime
+550,Very Low Crime
+551,Very Low Crime
+552,Very High Crime
+553,Medium Crime
+554,Very Low Crime
+555,Very High Crime
+556,Very Low Crime
+557,High Crime
+558,High Crime
+559,Low Crime
+560,Very High Crime
+561,Low Crime
+562,Medium Crime
+563,High Crime
+564,Very High Crime
+565,Very Low Crime
+566,High Crime
+567,Very High Crime
+568,High Crime
+569,High Crime
+570,Medium Crime
+571,Medium Crime
+572,Low Crime
+573,Medium Crime
+574,Low Crime
+575,Low Crime
+576,Very Low Crime
+577,Very Low Crime
+578,Low Crime
+579,Medium Crime
+580,Very Low Crime
+581,Medium Crime
+582,High Crime
+583,Medium Crime
+584,Low Crime
+585,Low Crime
+586,Very High Crime
+587,Very High Crime
+588,Medium Crime
+589,Medium Crime
+590,Very High Crime
+591,Very High Crime
+592,Very Low Crime
+593,Very Low Crime
+594,Very Low Crime
+595,Low Crime
+596,Medium Crime
+597,High Crime
+598,Medium Crime
+599,Very Low Crime
+600,Very High Crime
+601,High Crime
+602,High Crime
+603,Low Crime
+604,Very High Crime
+605,High Crime
+606,Medium Crime
+607,Low Crime
+608,Very High Crime
+609,Very Low Crime
+610,Very High Crime
+611,Medium Crime
+612,High Crime
+613,Low Crime
+614,Very High Crime
+615,Very High Crime
+616,Low Crime
+617,Medium Crime
+618,Medium Crime
+619,Medium Crime
+620,High Crime
+621,Very Low Crime
+622,Low Crime
+623,Very Low Crime
+624,High Crime
+625,Low Crime
+626,Low Crime
+627,Very Low Crime
+628,Low Crime
+629,Medium Crime
+630,Very High Crime
+631,Very High Crime
+632,Medium Crime
+633,High Crime
+634,Very Low Crime
+635,Low Crime
+636,Medium Crime
+637,Very High Crime
+638,Medium Crime
+639,Medium Crime
+640,High Crime
+641,Very High Crime
+642,Very High Crime
+643,Very Low Crime
+644,Very Low Crime
+645,High Crime
+646,Medium Crime
+647,Very Low Crime
+648,Very High Crime
+649,Very Low Crime
+650,Medium Crime
+651,Medium Crime
+652,Very Low Crime
+653,Very Low Crime
+654,Very Low Crime
+655,Low Crime
+656,High Crime
+657,Low Crime
+658,Medium Crime
+659,Very High Crime
+660,High Crime
+661,Very Low Crime
+662,High Crime
+663,Very High Crime
+664,Low Crime
+665,High Crime
+666,High Crime
+667,Very High Crime
+668,High Crime
+669,Very High Crime
+670,High Crime
+671,Low Crime
+672,Very Low Crime
+673,Very High Crime
+674,High Crime
+675,Very High Crime
+676,Very High Crime
+677,Medium Crime
+678,Very High Crime
+679,Very Low Crime
+680,High Crime
+681,High Crime
+682,Very High Crime
+683,High Crime
+684,High Crime
+685,Very Low Crime
+686,Medium Crime
+687,Very High Crime
+688,Very High Crime
+689,Medium Crime
+690,Very Low Crime
+691,Very High Crime
+692,Very High Crime
+693,High Crime
+694,High Crime
+695,Very High Crime
+696,Very Low Crime
+697,Low Crime
+698,Very High Crime
+699,Very High Crime
+700,Very High Crime
+701,Low Crime
+702,Low Crime
+703,Very Low Crime
+704,Medium Crime
+705,High Crime
+706,Very High Crime
+707,Medium Crime
+708,High Crime
+709,Low Crime
+710,Very Low Crime
+711,Very High Crime
+712,Low Crime
+713,Medium Crime
+714,High Crime
+715,Medium Crime
+716,High Crime
+717,Low Crime
+718,Medium Crime
+719,Low Crime
+720,Medium Crime
+721,Very Low Crime
+722,High Crime
+723,Very High Crime
+724,Medium Crime
+725,Very Low Crime
+726,Very High Crime
+727,High Crime
+728,Very Low Crime
+729,Medium Crime
+730,Very Low Crime
+731,Very High Crime
+732,Very High Crime
+733,Medium Crime
+734,Low Crime
+735,Very High Crime
+736,Medium Crime
+737,Very Low Crime
+738,High Crime
+739,Medium Crime
+740,High Crime
+741,High Crime
+742,Very High Crime
+743,Medium Crime
+744,Very Low Crime
+745,High Crime
+746,Very Low Crime
+747,Medium Crime
+748,Low Crime
+749,Very Low Crime
+750,Medium Crime
+751,Low Crime
+752,Low Crime
+753,Low Crime
+754,Low Crime
+755,Medium Crime
+756,Very Low Crime
+757,High Crime
+758,High Crime
+759,Medium Crime
+760,Medium Crime
+761,Medium Crime
+762,Medium Crime
+763,Medium Crime
+764,Very Low Crime
+765,Very Low Crime
+766,High Crime
+767,High Crime
+768,Low Crime
+769,High Crime
+770,Very High Crime
+771,Very Low Crime
+772,High Crime
+773,Very Low Crime
+774,High Crime
+775,High Crime
+776,Very High Crime
+777,Very High Crime
+778,Low Crime
+779,Very High Crime
+780,High Crime
+781,Very High Crime
+782,Low Crime
+783,Very High Crime
+784,Very Low Crime
+785,Medium Crime
+786,Very High Crime
+787,Very Low Crime
+788,Very Low Crime
+789,Very Low Crime
+790,Medium Crime
+791,Very High Crime
+792,Very Low Crime
+793,Medium Crime
+794,Medium Crime
+795,High Crime
+796,Very Low Crime
+797,Low Crime
+798,Very Low Crime
+799,Very Low Crime
+800,Very Low Crime
+801,High Crime
+802,Very Low Crime
+803,Very High Crime
+804,High Crime
+805,Medium Crime
+806,Low Crime
+807,Low Crime
+808,Medium Crime
+809,Very Low Crime
+810,Very High Crime
+811,High Crime
+812,Medium Crime
+813,Low Crime
+814,Medium Crime
+815,Very Low Crime
+816,Medium Crime
+817,Very Low Crime
+818,High Crime
+819,Medium Crime
+820,Very Low Crime
+821,High Crime
+822,Very Low Crime
+823,Very Low Crime
+824,Very Low Crime
+825,Very Low Crime
+826,Low Crime
+827,High Crime
+828,Very High Crime
+829,High Crime
+830,Low Crime
+831,Very Low Crime
+832,Very Low Crime
+833,Very Low Crime
+834,Low Crime
+835,High Crime
+836,Very High Crime
+837,Medium Crime
+838,Very Low Crime
+839,Very Low Crime
+840,High Crime
+841,Very High Crime
+842,High Crime
+843,Very High Crime
+844,Medium Crime
+845,Very High Crime
+846,Very High Crime
+847,High Crime
+848,Very Low Crime
+849,Very Low Crime
+850,Very Low Crime
+851,Very Low Crime
+852,Very Low Crime
+853,Very Low Crime
+854,High Crime
+855,Very High Crime
+856,Medium Crime
+857,Very High Crime
+858,Very High Crime
+859,High Crime
+860,Medium Crime
+861,Low Crime
+862,High Crime
+863,Low Crime
+864,High Crime
+865,Very Low Crime
+866,Very High Crime
+867,Very High Crime
+868,Medium Crime
+869,Very High Crime
+870,Very High Crime
+871,High Crime
+872,Medium Crime
+873,Medium Crime
+874,High Crime
+875,Very Low Crime
+876,High Crime
+877,High Crime
+878,Low Crime
+879,Medium Crime
+880,Low Crime
+881,Very Low Crime
+882,Very Low Crime
+883,Very High Crime
+884,Low Crime
+885,Medium Crime
+886,High Crime
+887,Very Low Crime
+888,Low Crime
+889,High Crime
+890,Medium Crime
+891,Very Low Crime
+892,Very Low Crime
+893,Very Low Crime
+894,Low Crime
+895,Low Crime
+896,High Crime
+897,High Crime
+898,Very High Crime
+899,High Crime
+900,Low Crime
+901,Very Low Crime
+902,Very High Crime
+903,Medium Crime
+904,Low Crime
+905,Low Crime
+906,Very High Crime
+907,Very Low Crime
+908,Low Crime
+909,Very High Crime
+910,Very Low Crime
+911,Very Low Crime
+912,Medium Crime
+913,Medium Crime
+914,Very Low Crime
+915,Medium Crime
+916,Low Crime
+917,Very High Crime
+918,Medium Crime
+919,Low Crime
+920,Very High Crime
+921,Very Low Crime
+922,High Crime
+923,Medium Crime
+924,High Crime
+925,Very Low Crime
+926,High Crime
+927,Low Crime
+928,High Crime
+929,High Crime
+930,Very Low Crime
+931,Very High Crime
+932,Low Crime
+933,Low Crime
+934,Very Low Crime
+935,Low Crime
+936,Medium Crime
+937,Very Low Crime
+938,Medium Crime
+939,Very Low Crime
+940,Medium Crime
+941,Medium Crime
+942,Medium Crime
+943,Very Low Crime
+944,Medium Crime
+945,Very High Crime
+946,Medium Crime
+947,Very High Crime
+948,Medium Crime
+949,Medium Crime
+950,High Crime
+951,Medium Crime
+952,Very High Crime
+953,Very High Crime
+954,High Crime
+955,Very High Crime
+956,Very Low Crime
+957,Very High Crime
+958,Medium Crime
+959,High Crime
+960,High Crime
+961,Very High Crime
+962,Very Low Crime
+963,Very Low Crime
+964,Very Low Crime
+965,Medium Crime
+966,Very High Crime
+967,Low Crime
+968,High Crime
+969,High Crime
+970,Very High Crime
+971,Low Crime
+972,High Crime
+973,Very High Crime
+974,Medium Crime
+975,Low Crime
+976,Very High Crime
+977,High Crime
+978,High Crime
+979,Low Crime
+980,Medium Crime
+981,Low Crime
+982,Medium Crime
+983,Low Crime
+984,Low Crime
+985,Very Low Crime
+986,High Crime
+987,Low Crime
+988,Very Low Crime
+989,Low Crime
+990,Medium Crime
+991,Very High Crime
+992,Very High Crime
+993,Very Low Crime
+994,Very Low Crime
+995,High Crime
+996,Low Crime
+997,Low Crime
+998,Very High Crime
+999,Very Low Crime
+1000,Very Low Crime
+1001,Very High Crime
+1002,Medium Crime
+1003,Medium Crime
+1004,Very High Crime
+1005,Medium Crime
+1006,Very High Crime
+1007,Very Low Crime
+1008,Very High Crime
+1009,Very Low Crime
+1010,Very Low Crime
+1011,High Crime
+1012,High Crime
+1013,Very Low Crime
+1014,High Crime
+1015,High Crime
+1016,Very Low Crime
+1017,Medium Crime
+1018,Low Crime
+1019,Very Low Crime
+1020,Medium Crime
+1021,Medium Crime
+1022,Medium Crime
+1023,Very Low Crime
+1024,Low Crime
+1025,Very High Crime
+1026,High Crime
+1027,Very Low Crime
+1028,High Crime
+1029,Very High Crime
+1030,Medium Crime
+1031,Low Crime
+1032,Very Low Crime
+1033,Low Crime
+1034,Very Low Crime
+1035,Very Low Crime
+1036,Very Low Crime
+1037,Very High Crime
+1038,Medium Crime
+1039,Very High Crime
+1040,Medium Crime
+1041,Very High Crime
+1042,Very Low Crime
+1043,Low Crime
+1044,Very High Crime
+1045,Very Low Crime
+1046,Low Crime
+1047,Low Crime
+1048,Very Low Crime
+1049,Very Low Crime
+1050,Medium Crime
+1051,Very High Crime
+1052,Very High Crime
+1053,Very High Crime
+1054,High Crime
+1055,High Crime
+1056,Very High Crime
+1057,High Crime
+1058,High Crime
+1059,High Crime
+1060,High Crime
+1061,Low Crime
+1062,Low Crime
+1063,Low Crime
+1064,High Crime
+1065,Medium Crime
+1066,Low Crime
+1067,High Crime
+1068,Low Crime
+1069,High Crime
+1070,Medium Crime
+1071,Medium Crime
+1072,Low Crime
+1073,Very High Crime
+1074,Medium Crime
+1075,Low Crime
+1076,Very Low Crime
+1077,Medium Crime
+1078,Medium Crime
+1079,Medium Crime
+1080,Very Low Crime
+1081,High Crime
+1082,Very Low Crime
+1083,High Crime
+1084,Low Crime
+1085,High Crime
+1086,Low Crime
+1087,Low Crime
+1088,Low Crime
+1089,Very Low Crime
+1090,High Crime
+1091,High Crime
+1092,Low Crime
+1093,Very High Crime
+1094,Medium Crime
+1095,High Crime
+1096,Very High Crime
+1097,Low Crime
+1098,Medium Crime
+1099,High Crime
+1100,Very Low Crime
+1101,Very Low Crime
+1102,High Crime
+1103,Medium Crime
+1104,Medium Crime
+1105,Low Crime
+1106,Very Low Crime
+1107,Low Crime
+1108,High Crime
+1109,Low Crime
+1110,Very Low Crime
+1111,Very Low Crime
+1112,Very Low Crime
+1113,Medium Crime
+1114,Very Low Crime
+1115,Medium Crime
+1116,Very High Crime
+1117,Medium Crime
+1118,Medium Crime
+1119,Very High Crime
+1120,Medium Crime
+1121,Low Crime
+1122,Low Crime
+1123,Low Crime
+1124,Very Low Crime
+1125,Very High Crime
+1126,Medium Crime
+1127,Very Low Crime
+1128,Medium Crime
+1129,High Crime
+1130,Low Crime
+1131,Very Low Crime
+1132,Very Low Crime
+1133,Very Low Crime
+1134,Very High Crime
+1135,Medium Crime
+1136,High Crime
+1137,Very Low Crime
+1138,Medium Crime
+1139,Very Low Crime
+1140,Medium Crime
+1141,Very Low Crime
+1142,Very High Crime
+1143,Low Crime
+1144,Medium Crime
+1145,High Crime
+1146,Very High Crime
+1147,Very Low Crime
+1148,Very Low Crime
+1149,Very High Crime
+1150,Low Crime
+1151,Very High Crime
+1152,Medium Crime
+1153,High Crime
+1154,Very High Crime
+1155,Very Low Crime
+1156,High Crime
+1157,High Crime
+1158,Very Low Crime
+1159,Very High Crime
+1160,High Crime
+1161,Medium Crime
+1162,High Crime
+1163,Very Low Crime
+1164,Medium Crime
+1165,High Crime
+1166,High Crime
+1167,Low Crime
+1168,Low Crime
+1169,Very High Crime
+1170,Very High Crime
+1171,Very High Crime
+1172,High Crime
+1173,Very Low Crime
+1174,Very Low Crime
+1175,High Crime
+1176,Medium Crime
+1177,Very Low Crime
+1178,Low Crime
+1179,Very Low Crime
+1180,Very High Crime
+1181,Medium Crime
+1182,Very High Crime
+1183,Very High Crime
+1184,Low Crime
+1185,High Crime
+1186,Low Crime
+1187,Very High Crime
+1188,Medium Crime
+1189,Medium Crime
+1190,Very Low Crime
+1191,Medium Crime
+1192,Very High Crime
+1193,Very Low Crime
+1194,Low Crime
+1195,High Crime
+1196,Very High Crime
+1197,Very Low Crime
+1198,Very Low Crime
+1199,Very Low Crime
+1200,Very High Crime
+1201,Very Low Crime
+1202,Medium Crime
+1203,Very Low Crime
+1204,Very High Crime
+1205,Very Low Crime
+1206,Medium Crime
+1207,Very High Crime
+1208,Very High Crime
+1209,Medium Crime
+1210,Low Crime
+1211,Very High Crime
+1212,Very Low Crime
+1213,Very Low Crime
+1214,Very Low Crime
+1215,Very Low Crime
+1216,Medium Crime
+1217,High Crime
+1218,Low Crime
+1219,Very Low Crime
+1220,Medium Crime
+1221,Very Low Crime
+1222,Medium Crime
+1223,Medium Crime
+1224,Medium Crime
+1225,Medium Crime
+1226,Low Crime
+1227,High Crime
+1228,Very Low Crime
+1229,High Crime
+1230,Very Low Crime
+1231,Very Low Crime
+1232,High Crime
+1233,Medium Crime
+1234,Very Low Crime
+1235,High Crime
+1236,Low Crime
+1237,Very High Crime
+1238,Very Low Crime
+1239,Medium Crime
+1240,Very High Crime
+1241,Very Low Crime
+1242,Very Low Crime
+1243,Very Low Crime
+1244,Very High Crime
+1245,Very Low Crime
+1246,High Crime
+1247,Low Crime
+1248,Very Low Crime
+1249,Medium Crime
+1250,Very High Crime
+1251,High Crime
+1252,Very Low Crime
+1253,High Crime
+1254,Medium Crime
+1255,Very Low Crime
+1256,High Crime
+1257,Very High Crime
+1258,Medium Crime
+1259,Medium Crime
+1260,Low Crime
+1261,Very High Crime
+1262,Very High Crime
+1263,Medium Crime
+1264,Very Low Crime
+1265,High Crime
+1266,Low Crime
+1267,Very Low Crime
+1268,Very Low Crime
+1269,High Crime
+1270,Very High Crime
+1271,High Crime
+1272,Medium Crime
+1273,Very High Crime
+1274,Very High Crime
+1275,High Crime
+1276,Very Low Crime
+1277,Medium Crime
+1278,Medium Crime
+1279,Very High Crime
+1280,Very Low Crime
+1281,Low Crime
+1282,Medium Crime
+1283,High Crime
+1284,Very Low Crime
+1285,Very High Crime
+1286,Very High Crime
+1287,Very High Crime
+1288,Very Low Crime
+1289,Medium Crime
+1290,High Crime
+1291,Medium Crime
+1292,Very High Crime
+1293,Very Low Crime
+1294,Medium Crime
+1295,Very High Crime
+1296,Medium Crime
+1297,Very Low Crime
+1298,Low Crime
+1299,Medium Crime
+1300,Medium Crime
+1301,Very High Crime
+1302,Very Low Crime
+1303,High Crime
+1304,Medium Crime
+1305,Very Low Crime
+1306,Very High Crime
+1307,Very High Crime
+1308,Low Crime
+1309,Medium Crime
+1310,Very High Crime
+1311,Very Low Crime
+1312,Very High Crime
+1313,Very High Crime
+1314,Medium Crime
+1315,Medium Crime
+1316,Medium Crime
+1317,Low Crime
+1318,Very Low Crime
+1319,Low Crime
+1320,High Crime
+1321,High Crime
+1322,Very Low Crime
+1323,Very Low Crime
+1324,High Crime
+1325,High Crime
+1326,Very High Crime
+1327,Low Crime
+1328,Low Crime
+1329,High Crime
+1330,Very Low Crime
+1331,Very High Crime
+1332,Medium Crime
+1333,High Crime
+1334,Low Crime
+1335,Very Low Crime
+1336,Medium Crime
+1337,Very Low Crime
+1338,High Crime
+1339,Very Low Crime
+1340,Low Crime
+1341,Very High Crime
+1342,Very Low Crime
+1343,Low Crime
+1344,Low Crime
+1345,Low Crime
+1346,Very Low Crime
+1347,Very Low Crime
+1348,Very Low Crime
+1349,Low Crime
+1350,Very High Crime
+1351,High Crime
+1352,Low Crime
+1353,Very High Crime
+1354,Medium Crime
+1355,Low Crime
+1356,Very Low Crime
+1357,High Crime
+1358,Medium Crime
+1359,Medium Crime
+1360,Very High Crime
+1361,Medium Crime
+1362,High Crime
+1363,Very Low Crime
+1364,Very High Crime
+1365,Very Low Crime
+1366,High Crime
+1367,Medium Crime
+1368,Very Low Crime
+1369,Medium Crime
+1370,High Crime
+1371,Very Low Crime
+1372,High Crime
+1373,High Crime
+1374,Medium Crime
+1375,Medium Crime
+1376,Very High Crime
+1377,Low Crime
+1378,Very High Crime
+1379,High Crime
+1380,High Crime
+1381,Very Low Crime
+1382,Very High Crime
+1383,Medium Crime
+1384,Medium Crime
+1385,Very Low Crime
+1386,Medium Crime
+1387,Very Low Crime
+1388,Medium Crime
+1389,High Crime
+1390,Medium Crime
+1391,Low Crime
+1392,Very High Crime
+1393,High Crime
+1394,Low Crime
+1395,Very Low Crime
+1396,Medium Crime
+1397,Very High Crime
+1398,Medium Crime
+1399,Medium Crime
+1400,Very Low Crime
+1401,Medium Crime
+1402,High Crime
+1403,Low Crime
+1404,High Crime
+1405,Very Low Crime
+1406,Very Low Crime
+1407,Very Low Crime
+1408,Very Low Crime
+1409,Low Crime
+1410,High Crime
+1411,Medium Crime
+1412,Low Crime
+1413,Very High Crime
+1414,Low Crime
+1415,Low Crime
+1416,Medium Crime
+1417,Medium Crime
+1418,Medium Crime
+1419,Medium Crime
+1420,Very High Crime
+1421,Very High Crime
+1422,Very Low Crime
+1423,Very Low Crime
+1424,Low Crime
+1425,Low Crime
+1426,Low Crime
+1427,Medium Crime
+1428,Very High Crime
+1429,Very Low Crime
+1430,Very Low Crime
+1431,Very High Crime
+1432,Very High Crime
+1433,Very Low Crime
+1434,Very Low Crime
+1435,Medium Crime
+1436,Very High Crime
+1437,Low Crime
+1438,High Crime
+1439,Very Low Crime
+1440,Medium Crime
+1441,Very High Crime
+1442,Very Low Crime
+1443,Medium Crime
+1444,Very High Crime
+1445,Medium Crime
+1446,High Crime
+1447,Low Crime
+1448,Very Low Crime
+1449,Medium Crime
+1450,Very High Crime
+1451,Very High Crime
+1452,High Crime
+1453,Medium Crime
+1454,Medium Crime
+1455,Low Crime
+1456,High Crime
+1457,High Crime
+1458,Medium Crime
+1459,High Crime
+1460,Low Crime
+1461,Very Low Crime
+1462,Very Low Crime
+1463,Very Low Crime
+1464,Very Low Crime
+1465,High Crime
+1466,High Crime
+1467,High Crime
+1468,Very Low Crime
+1469,Very High Crime
+1470,Medium Crime
+1471,Very Low Crime
+1472,High Crime
+1473,Very Low Crime
+1474,Very Low Crime
+1475,Medium Crime
+1476,Medium Crime
+1477,Very High Crime
+1478,Very Low Crime
+1479,Very High Crime
+1480,High Crime
+1481,Very High Crime
+1482,Low Crime
+1483,Very Low Crime
+1484,Low Crime
+1485,Very Low Crime
+1486,Very High Crime
+1487,Very High Crime
+1488,Low Crime
+1489,Very Low Crime
+1490,Very Low Crime
+1491,Medium Crime
+1492,High Crime
+1493,Very Low Crime
+1494,High Crime
+1495,Medium Crime
+1496,Low Crime
+1497,Medium Crime
+1498,Very Low Crime
+1499,Medium Crime
+1500,Very Low Crime
+1501,High Crime
+1502,Very High Crime
+1503,Medium Crime
+1504,Medium Crime
+1505,High Crime
+1506,Very High Crime
+1507,High Crime
+1508,Very High Crime
+1509,High Crime
+1510,Medium Crime
+1511,High Crime
+1512,High Crime
+1513,Medium Crime
+1514,High Crime
+1515,Very Low Crime
+1516,Very Low Crime
+1517,Medium Crime
+1518,High Crime
+1519,Very Low Crime
+1520,Very Low Crime
+1521,Very Low Crime
+1522,Very Low Crime
+1523,High Crime
+1524,Very High Crime
+1525,Very Low Crime
+1526,High Crime
+1527,High Crime
+1528,High Crime
+1529,Medium Crime
+1530,Medium Crime
+1531,Very Low Crime
+1532,Very High Crime
+1533,Medium Crime
+1534,High Crime
+1535,Very Low Crime
+1536,Very High Crime
+1537,High Crime
+1538,High Crime
+1539,High Crime
+1540,Medium Crime
+1541,Medium Crime
+1542,High Crime
+1543,High Crime
+1544,Very High Crime
+1545,Medium Crime
+1546,Very Low Crime
+1547,Medium Crime
+1548,Low Crime
+1549,Very Low Crime
+1550,Very Low Crime
+1551,Medium Crime
+1552,Very Low Crime
+1553,Low Crime
+1554,Very High Crime
+1555,High Crime
+1556,High Crime
+1557,High Crime
+1558,Medium Crime
+1559,Low Crime
+1560,High Crime
+1561,Low Crime
+1562,Low Crime
+1563,Very High Crime
+1564,High Crime
+1565,Very Low Crime
+1566,High Crime
+1567,Very High Crime
+1568,Very Low Crime
+1569,Very High Crime
+1570,Very High Crime
+1571,Low Crime
+1572,Low Crime
+1573,High Crime
+1574,High Crime
+1575,Medium Crime
+1576,Medium Crime
+1577,Medium Crime
+1578,Very Low Crime
+1579,Medium Crime
+1580,Very High Crime
+1581,Medium Crime
+1582,Very High Crime
+1583,Low Crime
+1584,High Crime
+1585,Low Crime
+1586,Very Low Crime
+1587,Low Crime
+1588,Very Low Crime
+1589,Low Crime
+1590,High Crime
+1591,Medium Crime
+1592,Low Crime
+1593,Very Low Crime
+1594,High Crime
+1595,Very High Crime
+1596,Medium Crime
+1597,Very High Crime
+1598,High Crime
+1599,Low Crime
+1600,Very Low Crime
+1601,Very High Crime
+1602,Low Crime
+1603,Medium Crime
+1604,Very Low Crime
+1605,Very Low Crime
+1606,Low Crime
+1607,Very High Crime
+1608,Medium Crime
+1609,Very Low Crime
+1610,Very High Crime
+1611,Very Low Crime
+1612,Very High Crime
+1613,Medium Crime
+1614,Low Crime
+1615,Very Low Crime
+1616,Very Low Crime
+1617,High Crime
+1618,Very Low Crime
+1619,High Crime
+1620,Low Crime
+1621,Low Crime
+1622,Very Low Crime
+1623,Very High Crime
+1624,High Crime
+1625,Very High Crime
+1626,High Crime
+1627,Very Low Crime
+1628,High Crime
+1629,Very Low Crime
+1630,Very Low Crime
+1631,Very Low Crime
+1632,High Crime
+1633,Very High Crime
+1634,Very Low Crime
+1635,Low Crime
+1636,Very High Crime
+1637,Low Crime
+1638,Medium Crime
+1639,Low Crime
+1640,Very High Crime
+1641,High Crime
+1642,Very Low Crime
+1643,Very Low Crime
+1644,Medium Crime
+1645,Low Crime
+1646,Low Crime
+1647,High Crime
+1648,Very Low Crime
+1649,High Crime
+1650,Low Crime
+1651,High Crime
+1652,Very Low Crime
+1653,Low Crime
+1654,Low Crime
+1655,Very High Crime
+1656,Very Low Crime
+1657,Very Low Crime
+1658,Very Low Crime
+1659,Very Low Crime
+1660,Very Low Crime
+1661,Very High Crime
+1662,High Crime
+1663,Very High Crime
+1664,Very High Crime
+1665,Very Low Crime
+1666,Low Crime
+1667,Very Low Crime
+1668,Low Crime
+1669,High Crime
+1670,Very High Crime
+1671,High Crime
+1672,Very Low Crime
+1673,Medium Crime
+1674,Low Crime
+1675,Medium Crime
+1676,High Crime
+1677,Very High Crime
+1678,High Crime
+1679,Very Low Crime
+1680,Medium Crime
+1681,Medium Crime
+1682,Very Low Crime
+1683,High Crime
+1684,Very High Crime
+1685,Low Crime
+1686,Very High Crime
+1687,Very Low Crime
+1688,Low Crime
+1689,High Crime
+1690,High Crime
+1691,High Crime
+1692,Medium Crime
+1693,Medium Crime
+1694,Very Low Crime
+1695,High Crime
+1696,Medium Crime
+1697,Very Low Crime
+1698,Very High Crime
+1699,High Crime
+1700,Very High Crime
+1701,Low Crime
+1702,Low Crime
+1703,Very High Crime
+1704,Very Low Crime
+1705,Very Low Crime
+1706,Very Low Crime
+1707,High Crime
+1708,Very Low Crime
+1709,High Crime
+1710,High Crime
+1711,High Crime
+1712,Medium Crime
+1713,Very Low Crime
+1714,Low Crime
+1715,Low Crime
+1716,Medium Crime
+1717,Medium Crime
+1718,Medium Crime
+1719,High Crime
+1720,Low Crime
+1721,Very High Crime
+1722,Very Low Crime
+1723,Low Crime
+1724,Medium Crime
+1725,Very Low Crime
+1726,High Crime
+1727,Very High Crime
+1728,High Crime
+1729,High Crime
+1730,Medium Crime
+1731,Low Crime
+1732,High Crime
+1733,Low Crime
+1734,Low Crime
+1735,Very Low Crime
+1736,Low Crime
+1737,Medium Crime
+1738,Medium Crime
+1739,Medium Crime
+1740,Very Low Crime
+1741,Very Low Crime
+1742,Medium Crime
+1743,Low Crime
+1744,Very Low Crime
+1745,Very Low Crime
+1746,Very Low Crime
+1747,Very High Crime
+1748,Medium Crime
+1749,Very High Crime
+1750,Medium Crime
+1751,High Crime
+1752,Medium Crime
+1753,Very High Crime
+1754,Very High Crime
+1755,Very Low Crime
+1756,High Crime
+1757,Low Crime
+1758,High Crime
+1759,Very High Crime
+1760,Medium Crime
+1761,Very Low Crime
+1762,Very Low Crime
+1763,Medium Crime
+1764,High Crime
+1765,Low Crime
+1766,Very Low Crime
+1767,Very High Crime
+1768,Low Crime
+1769,Medium Crime
+1770,High Crime
+1771,Medium Crime
+1772,Low Crime
+1773,Very High Crime
+1774,Medium Crime
+1775,Very High Crime
+1776,Very Low Crime
+1777,Very High Crime
+1778,Very High Crime
+1779,Medium Crime
+1780,Very Low Crime
+1781,Low Crime
+1782,Very Low Crime
+1783,Very High Crime
+1784,Low Crime
+1785,Very Low Crime
+1786,Low Crime
+1787,High Crime
+1788,High Crime
+1789,Very High Crime
+1790,Very High Crime
+1791,Low Crime
+1792,Very High Crime
+1793,Very Low Crime
+1794,Very Low Crime
+1795,Low Crime
+1796,Medium Crime
+1797,Medium Crime
+1798,Medium Crime
+1799,Medium Crime
+1800,Low Crime
+1801,Very High Crime
+1802,Low Crime
+1803,High Crime
+1804,Very Low Crime
+1805,Very High Crime
+1806,Medium Crime
+1807,Medium Crime
+1808,High Crime
+1809,Very Low Crime
+1810,Very High Crime
+1811,Very High Crime
+1812,Low Crime
+1813,Very High Crime
+1814,Low Crime
+1815,Very High Crime
+1816,Very Low Crime
+1817,Very High Crime
+1818,Very Low Crime
+1819,High Crime
+1820,High Crime
+1821,High Crime
+1822,High Crime
+1823,Very High Crime
+1824,Very Low Crime
+1825,Medium Crime
+1826,Very Low Crime
+1827,Low Crime
+1828,Very Low Crime
+1829,Low Crime
+1830,Low Crime
+1831,Very High Crime
+1832,Very Low Crime
+1833,Very Low Crime
+1834,Medium Crime
+1835,Very High Crime
+1836,Very High Crime
+1837,Medium Crime
+1838,Very High Crime
+1839,Medium Crime
+1840,Medium Crime
+1841,Medium Crime
+1842,High Crime
+1843,Very High Crime
+1844,Very Low Crime
+1845,Medium Crime
+1846,Low Crime
+1847,Very High Crime
+1848,Medium Crime
+1849,Very High Crime
+1850,Medium Crime
+1851,High Crime
+1852,High Crime
+1853,Very Low Crime
+1854,Medium Crime
+1855,Low Crime
+1856,Medium Crime
+1857,Medium Crime
+1858,Medium Crime
+1859,High Crime
+1860,High Crime
+1861,Medium Crime
+1862,High Crime
+1863,Low Crime
+1864,Very Low Crime
+1865,Very High Crime
+1866,Low Crime
+1867,Very Low Crime
+1868,Very Low Crime
+1869,Medium Crime
+1870,High Crime
+1871,Low Crime
+1872,Very High Crime
+1873,Very Low Crime
+1874,Medium Crime
+1875,High Crime
+1876,Medium Crime
+1877,Medium Crime
+1878,Very High Crime
+1879,Medium Crime
+1880,High Crime
+1881,Very Low Crime
+1882,Low Crime
+1883,Low Crime
+1884,High Crime
+1885,Low Crime
+1886,High Crime
+1887,High Crime
+1888,Low Crime
+1889,Low Crime
+1890,Very Low Crime
+1891,High Crime
+1892,Medium Crime
+1893,High Crime
+1894,Very Low Crime
+1895,Medium Crime
+1896,Very Low Crime
+1897,Medium Crime
+1898,Very Low Crime
+1899,Low Crime
+1900,Very High Crime
+1901,Medium Crime
+1902,Medium Crime
+1903,High Crime
+1904,Low Crime
+1905,Medium Crime
+1906,Very Low Crime
+1907,Very High Crime
+1908,Low Crime
+1909,High Crime
+1910,Very High Crime
+1911,Very Low Crime
+1912,Medium Crime
+1913,High Crime
+1914,Very High Crime
+1915,Low Crime
+1916,Very High Crime
+1917,Medium Crime
+1918,High Crime
+1919,High Crime
+1920,Medium Crime
+1921,Medium Crime
+1922,High Crime
+1923,Low Crime
+1924,Medium Crime
+1925,High Crime
+1926,Low Crime
+1927,Low Crime
+1928,Medium Crime
+1929,Medium Crime
+1930,Very Low Crime
+1931,Medium Crime
+1932,Very Low Crime
+1933,Very Low Crime
+1934,Medium Crime
+1935,Very Low Crime
+1936,Very Low Crime
+1937,Very Low Crime
+1938,Medium Crime
+1939,Low Crime
+1940,Very High Crime
+1941,Medium Crime
+1942,Medium Crime
+1943,Medium Crime
+1944,Medium Crime
+1945,Medium Crime
+1946,Medium Crime
+1947,Very Low Crime
+1948,Medium Crime
+1949,High Crime
+1950,Medium Crime
+1951,High Crime
+1952,Low Crime
+1953,Very Low Crime
+1954,Very High Crime
+1955,Very Low Crime
+1956,High Crime
+1957,Very High Crime
+1958,High Crime
+1959,Low Crime
+1960,Very Low Crime
+1961,Very Low Crime
+1962,High Crime
+1963,Very High Crime
+1964,Very High Crime
+1965,Very High Crime
+1966,High Crime
+1967,Very Low Crime
+1968,Medium Crime
+1969,Very High Crime
+1970,Very High Crime
+1971,High Crime
+1972,High Crime
+1973,Very Low Crime
+1974,Very High Crime
+1975,Low Crime
+1976,Low Crime
+1977,High Crime
+1978,Very Low Crime
+1979,Medium Crime
+1980,High Crime
+1981,Low Crime
+1982,Very Low Crime
+1983,Very High Crime
+1984,Medium Crime
+1985,Medium Crime
+1986,Very Low Crime
+1987,Very Low Crime
+1988,Medium Crime
+1989,Low Crime
+1990,Very High Crime
+1991,High Crime
+1992,Medium Crime
+1993,Very High Crime
